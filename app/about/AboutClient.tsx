@@ -38,7 +38,7 @@ const AboutClient: React.FC = ({
           </p>
       </div>
       <div className="w-[75%] text-center m-16">
-        <div className="border-2 text-white text-[1.3rem] h-[160px] background-[#cb1670d4] p-10">Our mission is to find every family the space they need to relax <br /> reconnect, and enjoy precious time away together.</div>
+        <div className="border-2 text-white text-[1.3rem] h-[160px] bg-[#cb1670d4] p-10">Our mission is to find every family the space they need to relax <br /> reconnect, and enjoy precious time away together.</div>
       </div>
       
       <div className="w-[75%]">
