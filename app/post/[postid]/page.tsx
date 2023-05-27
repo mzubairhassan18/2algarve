@@ -23,14 +23,7 @@ const PostPage = async ({ params }: { params: IParams }) => {
     </ClientOnly>
   );
 
-   async function getStaticProps({ params }) {
-    console.log(params)
-    return {
-      props: {
-        postId: params.postId
-      }
-    }
-  }
+   
 }
  
 export default PostPage;
